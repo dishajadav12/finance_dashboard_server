@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Finance" ALTER COLUMN "anualIncome" SET DATA TYPE TEXT,
+ALTER COLUMN "transaction" SET DATA TYPE TEXT;

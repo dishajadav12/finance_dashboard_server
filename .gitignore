@@ -1,0 +1,3 @@
+node_modules
+.env
+nestjs_microservices/.env
